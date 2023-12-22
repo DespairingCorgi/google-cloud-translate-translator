@@ -27,5 +27,5 @@ if __name__ == "__main__":
     abspath = os.path.abspath(FILEPATH)
     dir = os.path.dirname(abspath)
     filename = ".".join(os.path.basename(abspath).split('.')[:-1])
-    with open(f'{dir}/{filename}_{SOURCE}-{TARGET}', 'w', encoding='utf-8') as f:
+    with open(f'{dir}/{filename}_{SOURCE}-{TARGET}.txt', 'w', encoding='utf-8') as f:
         f.write('\n'.join(final_output))
