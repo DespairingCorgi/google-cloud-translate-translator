@@ -18,7 +18,7 @@ Result:
 2. Name convention - <original_filename>_<sourcecode>-<targetcode>.txt
 
 Warning:
-0: I STRONGLY RECOMMENT NOT USING THIS CODE IF YOU HAVE TO CONSIDER THE COST. (*BECAUSE THE CREDENTIAL IS NOT FREE!!)
+0. I STRONGLY RECOMMENT NOT USING THIS CODE IF YOU HAVE TO CONSIDER THE COST. (*BECAUSE THE CREDENTIAL IS NOT FREE!!)
 1. The code requires json file named 'service_credentials.json' for which is authentcation. (You need your own credential)
 2. You need to fill PROJECT_ID and LOCATION value in google_translate.py
 3. Errors: 
