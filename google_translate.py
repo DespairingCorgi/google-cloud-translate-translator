@@ -3,7 +3,7 @@ from google.cloud import translate as translate
 from google.oauth2 import service_account
 
 #프로젝트 id
-PROJECT_ID = "brit-ae3c9"
+PROJECT_ID = "YOURPROJECTID"
 #위치 정보
 LOCATION = "global"
 
